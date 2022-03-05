@@ -23,4 +23,4 @@
 
  ## 2- Cotação de Multiplas Moedas
  
-### Escolha um arquivo __Excel__  
+### Escolha um arquivo *Excel*
