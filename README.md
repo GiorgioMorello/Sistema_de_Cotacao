@@ -12,7 +12,7 @@
   
   Escolha uma data
     
-  ![foto3](https://user-images.githubusercontent.com/99151447/156863518-40f741c8-0d07-4c2c-8538-3f001e3388d9.png)
+![foto3](https://user-images.githubusercontent.com/99151447/156863518-40f741c8-0d07-4c2c-8538-3f001e3388d9.png)
 
   
   Busque a cotação
