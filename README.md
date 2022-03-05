@@ -38,6 +38,6 @@
 
 ![att](https://user-images.githubusercontent.com/99151447/156866030-08b1a97b-46ca-4d6e-9c95-05ebd11caa48.PNG)
 
-### Abra o arquivo que foi criado chamado "Cotações das Moedas"
+### Abra o arquivo que foi criado, que se chama "Cotações das Moedas"
 
 ![fim](https://user-images.githubusercontent.com/99151447/156866114-3054485c-3cc1-4029-97cc-588960b9ef30.PNG)
