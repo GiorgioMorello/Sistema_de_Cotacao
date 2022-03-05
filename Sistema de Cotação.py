@@ -82,6 +82,10 @@ def atualizar():
         label_atualizar['text'] = "Selecione apenas arquivos em Excel"
 
 
+def proxima():
+    janela.destroy()
+    import Page2
+
 label_cotacao = tk.Label(text="Cotação de uma Moeda Específica", borderwidth=3, relief='ridge')
 label_cotacao.grid(row=0, column=0, padx=8, pady=8, sticky="NSWE", columnspan=3)
 
@@ -146,5 +150,12 @@ label_atualizar.grid(row=9, column=1, columnspan=2, padx=8, pady=8, sticky='news
 
 botao_fechar = tk.Button(text='Fechar', command=janela.quit, borderwidth=3, relief='raised')
 botao_fechar.grid(row=10, column=2, pady=8, padx=8, sticky='news')
+
+#Próxima Página
+
+label_proxima = tk.Button(text="Próxima Pagina", command=proxima, borderwidth=3, relief='raised')
+label_proxima.grid(row=11, column=1, padx=8, pady=8, sticky='news')
+
+
 
 janela.mainloop()
