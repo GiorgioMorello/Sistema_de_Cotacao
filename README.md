@@ -23,4 +23,5 @@
 
  ## 2- Cotação de Multiplas Moedas
  
-### Escolha um arquivo *Excel*
+### Escolha um arquivo *Excel* com as moedas na primeira coluna
+![excel](https://user-images.githubusercontent.com/99151447/156865216-3302dd64-9229-4adc-a069-8810632813d4.PNG)
