@@ -152,7 +152,7 @@ botao_fechar.grid(row=10, column=2, pady=8, padx=8, sticky='news')
 
 #Próxima Página
 
-label_proxima = tk.Button(text="Próxima Pagina", command=proxima, borderwidth=3, relief='raised')
+label_proxima = tk.Button(text="Próxima Página", command=proxima, borderwidth=3, relief='raised')
 label_proxima.grid(row=11, column=1, padx=8, pady=8, sticky='news')
 
 
