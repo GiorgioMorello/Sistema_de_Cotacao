@@ -10,7 +10,6 @@ from datetime import datetime
 
 janela = tk.Tk()
 janela.title("Sistemas de Cotação")
-#janela.iconbitmap('c:\\Users\\user\\Desktop\\icons\\Btc.ico')
 
 requisicao = requests.get('https://economia.awesomeapi.com.br/json/all')
 dicionario_json = requisicao.json()
