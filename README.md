@@ -1,8 +1,8 @@
-#Sistema_de_Cotacao
+# Sistema_de_Cotacao
  Programa (simples) feito em Python com o Tkinter. Criado apenas para buscar cotações de moedas com uma data específica
  
  
- #1 Buscar cotação de uma moeda específica
+ ## 1- Buscar cotação de uma moeda específica
  
  
   Selecione a moeda
