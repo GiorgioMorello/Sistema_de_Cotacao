@@ -24,8 +24,13 @@
  ## 2- Cotação de Multiplas Moedas
  
 ### Escolha um arquivo *Excel* com as moedas na primeira coluna
-![excel](https://user-images.githubusercontent.com/99151447/156865675-02149829-f944-4c26-83c0-a687b1339f7c.PNG)  ![selecione](https://user-images.githubusercontent.com/99151447/156865763-09b3268d-41ee-4042-95dc-6d112606c93a.PNG)
+![excel](https://user-images.githubusercontent.com/99151447/156865675-02149829-f944-4c26-83c0-a687b1339f7c.PNG)  
+
+### Selecione o arquivo
+![selecione](https://user-images.githubusercontent.com/99151447/156865763-09b3268d-41ee-4042-95dc-6d112606c93a.PNG)
 
 
 ### Selecione uma data inicial e uma data final
+
+![data](https://user-images.githubusercontent.com/99151447/156865845-9b997cca-a6cd-40dc-bf94-d8dbdc14d53b.PNG)
 
